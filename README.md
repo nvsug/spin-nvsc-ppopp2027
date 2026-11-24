@@ -1,0 +1,95 @@
+
+## About
+
+A State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the [Principles and Practice of Parallel Programming 2027 (PPoPP2027)][(https://ppopp27.sigplan.org/](https://ppopp27.sigplan.org/)), conference held in Salt Lake City, Utah on March 20 - 24, 2027. SPIN-NVSC is a full-day workshop taking place on Sunday, March 21.
+
+HPC centres worldwide are navigating a significant architectural transition, as they seek to balance the demands of traditional simulation workloads with the rapid growth of AI and data-intensive applications. The emergence of unified CPU-GPU Superchip platforms — spanning the Grace-Grace, Grace Hopper, Grace Blackwell, and forthcoming Vera Rubin architectures — offers a coherent family of solutions targeting different points in this workload spectrum, from memory-bandwidth-bound simulation to large-scale AI inference and training. With early adopters now deploying these systems into production and Vera Rubin also entering deployments, the community is actively navigating opportunities and challenges spanning system design, software stack integration, workflow portability, application readiness, resiliency, resource management, and energy efficiency. This workshop, organised by the NVIDIA Supercomputing Users Group (NVSUG), brings together HPC practitioners, system architects, and computational scientists deploying or planning to deploy systems based on these architectures. Contributions from application developers and end users are strongly encouraged.
+
+## Topics
+
+Key topics include, but are not limited to:
+- Architectural considerations and procurement lessons learned
+- System integration with existing clusters and storage infrastructure
+- Software stack deployment, programming models, and HPC middleware
+- Application porting, performance, and tuning for simulation and AI/ML workloads
+- Resiliency, resource management, and scheduling for mixed workloads
+- Energy efficiency, user education, and community enablement
+- Forward-looking perspectives on Vera Rubin deployment and application readiness
+
+## Workshop Schedule
+
+The timing of the schedule will be announced when the conference organizers provide information about the coffee breaks. The schedule will include:
+- Invited Plenary Talk
+- NVSUG Community Update
+- NVSUG Panel
+- Paper Talks (25 minutes)
+- Lightning Talks (8 minutes)
+
+## Key Dates
+
+Note that these are currently approximate
+- Submission Deadline: January 12, 2027 (AoE)
+- Notification: February 21, 2027
+- Camera Ready Deadline: March 14, 2027 (AoE)
+- Workshop: March 21
+
+## Submissions 
+
+SPIN-NVSC is accepting papers up to 12 pages. The page limit includes all references and appendices. 
+
+<!--SPIN-NVSC workshop uses XYZ-WHAT-XYZ for submissions. 
+
+To submit, please use this [XYZ-WHAT-XYZ link](XYZ-WHAT-XYZ) and select the NVSUG submission type. For other submission rules (e.g., blind review rules), please refer to the general [XYZ-WHAT-XYZ](XYZ-WHAT-XYZ) that the workshop will use. -->
+
+
+## Committee
+
+**Co-Chairs**
+
+| Individual                 | Affiliation                            |
+|----------------------------|----------------------------------------|
+| Adam Lavely                | LBNL NERSC                             |
+| Amit Ruhela                | TACC                                   |
+
+
+**Program Committee**
+
+| Individual                 | Affiliation                            |
+|----------------------------|----------------------------------------|
+| John Cazes                 | TACC                                   |
+| Taisuke Boku               | Advanced HPC-AI R&D Support Center     |
+| Maciej Cytowski            | Pawsey Supercomputing Research Centre  |
+| Colin McMurtrie            | CSCS/ETH Zurich                        |
+| Sadaf R. Alam              | Bristol Centre for Supercomputing      |
+
+<!-- | Jorge Luis Galvez Vallejo  | National Computational Infrastructure  |
+| Ugo Varetto                | Pawsey Supercomputing Research Centre  |
+| Wang Yi                    | NSCC                                   |
+| Himeshi De Silva           | NSCC                                   |
+| Todd Evans                 | NVIDIA                                 |
+| Simon See                  | NVIDIA                                 |
+| Cerlane Leong              | CSCS                                   |
+| Brandon Cook               | LBNL NERSC                             |
+| Ryohei Kobayashi           | Institute of Science Tokyo             |-->
+
+## Agenda
+
+TBD
+<!--Friday, February 19, 2027
+
+| Time | Talk |
+|------|-------------|
+<!--| 09:00 – 09:10 | **Welcome** |
+| 09:10 – 10:00 | **Keynote** Session Chair: Taisuke Boku <br><br> *Surrounding Challenges of GPU-Centric Supercomputing: IO, Energy Efficiency, and Operation*, Toshihiro Hanawa, The University of Tokyo |
+| 10:00 – 10:30 | **NVIDIA Supercomputing User Group (NVSUG) Community Update** Colin McMurtrie |
+| 10:30 – 11:00 | **Break** |
+| 11:00 – 12:30 | **Full Papers Session** Session Chair: Colin McMurtrie <br><br> *Portable and Resilient by Design: A Cloud-Style Stack for HPC and AI across NVIDIA Grace and Grace Hopper Superchips*, Sadaf R. Alam, Simon McIntosh-Smith <br><br> *Scaling the Extended OpenDwarfs: Evaluating Cross-Vendor CUDA Performance Portability with SCALE*, Beau Johnston, Chris Kitching, Matthew Ireland, Michael Søndergaard <br><br> *Characterizing Communication Compression on NVIDIA BlueField-3 DPU for Distributed Training*, Taiga Kobayashi, Tomohiro Ueno, Ryohei Kobayashi |
+| 12:30 – 13:30 | **Lunch** |
+| 13:30 – 14:40 | **Panel Discussion** *GPU Coding in the AI Era*, Moderator: Taisuke Boku, Panelists: Sadaf Alam, Tomohiro Ueno, Toshihiro Hanawa |
+| 14:40 – 15:00 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Beyond the HBM Wall: Coherent-Memory Oversubscription for AI Workloads on NVIDIA Grace Hopper*, Mohamed Abdelnaby, Wu-chun Feng |
+| 15:00 – 15:30 | **Break** |
+| 15:30 – 16:30 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Grace or Hopper? A Case Study of Wait-Free Concurrent Queues on the NVIDIA Grace Hopper GH200 Superchip*, Pratheek Prakash Shetty, Atharva Gondhalekar, Wu-chun Feng <br><br> *Adaptive GPU Sharing for Real-time LLM Serving with Best-effort Workloads*, Shuxin Li, Toshihiro Hanawa, Yohei Miki <br><br> *A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU*, Poorna Gunathilaka, Kirshanthan Sundararajah, Wu-chun Feng |
+| 16:30 – 16:45 | **Closing Remarks** |-->
+
+## Workshop Proceedings
+<!-- All papers presented during SPIN-NVSC workshop have been published within the ICPP'26 Workshop Proceedings available [here](https://dl.acm.org/doi/proceedings/10.1145/3816891). -->
