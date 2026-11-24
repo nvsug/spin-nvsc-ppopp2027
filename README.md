@@ -99,3 +99,7 @@ Friday, February 19, 2027
 <!-- 
 All papers presented during SPIN-NVSC workshop have been published within the ICPP'26 Workshop Proceedings available [here](https://dl.acm.org/doi/proceedings/10.1145/3816891). 
 -->
+
+## Photo Credit
+
+By Invictus323 - Own work, CC BY 4.0, https://commons.wikimedia.org/wiki/Special:Redirect/page/147971766
