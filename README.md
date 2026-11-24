@@ -64,7 +64,8 @@ To submit, please use this [XYZ-WHAT-XYZ link](XYZ-WHAT-XYZ) and select the NVSU
 | Colin McMurtrie            | CSCS/ETH Zurich                        |
 | Sadaf R. Alam              | Bristol Centre for Supercomputing      |
 
-<!-- | Jorge Luis Galvez Vallejo  | National Computational Infrastructure  |
+<!-- 
+| Jorge Luis Galvez Vallejo  | National Computational Infrastructure  |
 | Ugo Varetto                | Pawsey Supercomputing Research Centre  |
 | Wang Yi                    | NSCC                                   |
 | Himeshi De Silva           | NSCC                                   |
@@ -72,11 +73,13 @@ To submit, please use this [XYZ-WHAT-XYZ link](XYZ-WHAT-XYZ) and select the NVSU
 | Simon See                  | NVIDIA                                 |
 | Cerlane Leong              | CSCS                                   |
 | Brandon Cook               | LBNL NERSC                             |
-| Ryohei Kobayashi           | Institute of Science Tokyo             |-->
+| Ryohei Kobayashi           | Institute of Science Tokyo             |
+-->
 
 ## Agenda
 
 TBD
+
 <!--
 Friday, February 19, 2027
 
@@ -96,6 +99,9 @@ Friday, February 19, 2027
 -->
 
 ## Workshop Proceedings
+
+A link to the workshop proceedings will be made available here when they become available. 
+
 <!-- 
 All papers presented during SPIN-NVSC workshop have been published within the ICPP'26 Workshop Proceedings available [here](https://dl.acm.org/doi/proceedings/10.1145/3816891). 
 -->
